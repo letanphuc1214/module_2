@@ -19,7 +19,7 @@ public class Temperature {
                 case 1:
                     System.out.print("enter fahrenheit: ");
                     fahrenheit = scanner.nextDouble();
-                    System.out.println("Fahrenheit to Celsius " + FahrenheitToCelsius(fahrenheit));
+                    System.out.println("Fahrenheit to C1elsius " + FahrenheitToCelsius(fahrenheit));
                     break;
                 case 2:
                     System.out.print("enter celsius: ");

@@ -8,7 +8,7 @@ public class Ex14_1 {
         System.out.print("nhap chieu rong: ");
         double height = scanner.nextDouble();
         Rectangle rectangle = new Rectangle(width, height);
-        System.out.println("Dien tich hinh chu nhat: " + rectangle.getArea());
+        System.out.println("Dien tich hinh chu nhat: " + rectangle. getArea());
         System.out.println("Chu vi hinh chu nhat: " + rectangle.getPerimeter());
         System.out.println("Hinh chu nhat: " + rectangle.display());
 

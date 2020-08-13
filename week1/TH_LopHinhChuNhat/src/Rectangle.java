@@ -4,8 +4,7 @@ public class Rectangle {
     }
     public Rectangle(double width, double height){
         this.width = width;
-        this.heig
-    ht = height;
+        this.height = height;
     }
     public double getArea(){
         return this.width * this.height;

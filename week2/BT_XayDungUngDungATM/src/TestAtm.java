@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class TestAtm {
     public static void main(String[] args) {
 
-        Atm atm = new Atm("Nguyen Van A", 1200000);
+        Atm atm = new Atm();
         Scanner scanner = new Scanner(System.in);
         String choice;
 //        GiaoDich[] giaoDich = new GiaoDich[3];

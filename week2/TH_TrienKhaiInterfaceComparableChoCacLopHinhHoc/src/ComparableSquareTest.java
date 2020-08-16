@@ -11,7 +11,6 @@ public class ComparableSquareTest {
         for (ComparableSquare square : squares) {
             System.out.println(square);
         }
-
         Arrays.sort(squares);
 
         System.out.println("After-sorted: ");

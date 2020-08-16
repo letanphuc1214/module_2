@@ -2,6 +2,11 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class CustomerManagement {
+    public static final String NHAP_SO_DIEN_THOAI_KHACH_HANG = "Nhap so dien thoai khach hang: ";
+    public static final String KHONG_TON_TAI_KHACH_HANG = "Khong ton tai khach hang";
+    public static final String HE_THONG_DANG_TIM_KIEM = "He thong dang tim kiem... ";
+    public static final String SO_DON_HANG_DA_MUA = ", So don hang da mua: ";
+    public static final String KET_QUA = "Ket qua: ";
     Scanner scanner = new Scanner(System.in);
     Customer customer = new Customer();
     ArrayList<Customer> listCustomer = new ArrayList<Customer>();
@@ -9,6 +14,7 @@ public class CustomerManagement {
 
     public void menu() {
         do {
+            System.out.println();
             System.out.print("Su lua chon cua ban la gi: ");
             choice = Integer.parseInt(scanner.nextLine());
 
@@ -39,7 +45,7 @@ public class CustomerManagement {
     }
 
 
-    //Nhập thông tin khách hàng
+
     public void addCustomer() {
         System.out.println("Nhap ten khach hang: ");
         String customerName = scanner.nextLine();
@@ -63,53 +69,51 @@ public class CustomerManagement {
     }
 
 
-    //Nhập sđt và in ra thông tin khách hàng
     public void searchCustomer() {
-        System.out.println("Nhap so dien thoai khach hang: ");
+        System.out.println(NHAP_SO_DIEN_THOAI_KHACH_HANG);
         String PhoneNumber = scanner.nextLine();
-        System.out.println("He thong dang tim kiem... ");
-        System.out.println("Ket qua: ");
-        checkPhoneNumber(PhoneNumber);
+        System.out.println(HE_THONG_DANG_TIM_KIEM);
+        System.out.println(KET_QUA);
+        if (!checkPhoneNumber(PhoneNumber)) {
+            System.out.println(KHONG_TON_TAI_KHACH_HANG);
+        }
+
     }
 
-
-    //Nhập sđt in ra thông tin và số đơn
     public void searchCustomerAndOrder() {
-        System.out.println("Nhap so dien thoai khach hang: ");
+        System.out.println(NHAP_SO_DIEN_THOAI_KHACH_HANG);
         String PhoneNumber = scanner.nextLine();
-        System.out.println("He thong dang tim kiem... ");
-        System.out.println("Ket qua: ");
+        System.out.println(HE_THONG_DANG_TIM_KIEM);
+        System.out.println(KET_QUA);
         checkPhoneNumberAndOrder(PhoneNumber);
     }
 
 
-    //In ra thông tin khách hàng đã mua
     public void customerInformation() {
         System.out.println("Thong tin khach hang ");
         int count = 0;
-        for (int i = 0; i < listCustomer.size(); i++) {
-            System.out.println(listCustomer.get(i) + ", so don hang da mua: " + listCustomer.get(i).getPurcharseOrder());
+        for (Customer customer : listCustomer) {
+            System.out.println(customer + SO_DON_HANG_DA_MUA + customer.getPurcharseOrder());
             count++;
-
         }
         System.out.println("...");
-        System.out.println("Tong co " + count++ + " khach hang trong he thong");
+        System.out.println("Tong co " + count + " khach hang trong he thong");
     }
 
 
     //In ra thông tin khi đơn tăng lên 1
     public void increaseOrder() {
-        System.out.println("Nhap so dien thoai khach hang: ");
+        System.out.println(NHAP_SO_DIEN_THOAI_KHACH_HANG);
         String PhoneNumber = scanner.nextLine();
         System.out.println("Thong tin sau khi tang 1 don hang ");
-        checkPhoneNumberOrderIcrease(PhoneNumber);
+        checkPhoneNumberOrderIncrease(PhoneNumber);
     }
 
 
-    //check xem nhập email và sđt có trùng hay không
+
     public boolean checkCustomer(String phoneNumber, String email) {
-        for (int i = 0; i < listCustomer.size(); i++) {
-            if (phoneNumber.equals(listCustomer.get(i).getPhoneNumber()) && email.equals(listCustomer.get(i).getEmail())) {
+        for (Customer customer : listCustomer) {
+            if (customer.getEmail().equals(email) && customer.getPhoneNumber().equals(phoneNumber)) {
                 return false;
             }
         }
@@ -117,44 +121,40 @@ public class CustomerManagement {
     }
 
 
-    //check sđt có trong list chưa
+
     public boolean checkPhoneNumber(String phoneNumber) {
-        for (int i = 0; i < listCustomer.size(); i++) {
-            if (phoneNumber.equals(listCustomer.get(i).getPhoneNumber())) {
-                System.out.println(listCustomer.get(i));
+        for (Customer customer : listCustomer) {
+            if (phoneNumber.equals(customer.getPhoneNumber())) {
+                System.out.print(customer.toString());
                 return true;
             }
         }
-        System.out.println("Khong ton tai khach hang");
         return false;
-
     }
 
 
-    //check sđt  có trong list chưa
-    public boolean checkPhoneNumberAndOrder(String phoneNumber) {
-        for (int i = 0; i < listCustomer.size(); i++) {
-            if (phoneNumber.equals(listCustomer.get(i).getPhoneNumber())) {
-                System.out.println(listCustomer.get(i) + ", So don hang da mua: " + listCustomer.get(i).getPurcharseOrder());
-                return true;
+    public void checkPhoneNumberAndOrder(String phoneNumber) {
+        if (checkPhoneNumber(phoneNumber)) {
+            for (Customer customer : listCustomer) {
+                if (phoneNumber.equals(customer.getPhoneNumber())) {
+                    System.out.println(SO_DON_HANG_DA_MUA + customer.getPurcharseOrder());
+                    System.out.println();
+                }
             }
-        }
-        System.out.println("Khong ton tai khach hang");
-        return false;
-
+        } else System.out.println(KHONG_TON_TAI_KHACH_HANG);
     }
 
 
-    //    check sđt khi có đơn hàng tăng lên 1
-    public boolean checkPhoneNumberOrderIcrease(String phoneNumber) {
-        for (int i = 0; i < listCustomer.size(); i++) {
-            if (phoneNumber.equals(listCustomer.get(i).getPhoneNumber())) {
-                listCustomer.get(i).setPurcharseOrder(listCustomer.get(i).getPurcharseOrder() + 1);
-                System.out.println(listCustomer.get(i) + ", So don hang da mua : " + listCustomer.get(i).getPurcharseOrder());
+
+    public boolean checkPhoneNumberOrderIncrease(String phoneNumber) {
+        for (Customer customer : listCustomer) {
+            if (phoneNumber.equals(customer.getPhoneNumber())) {
+                customer.setPurcharseOrder(customer.getPurcharseOrder() + 1);
+                System.out.println(customer + SO_DON_HANG_DA_MUA + customer.getPurcharseOrder());
                 return true;
             }
         }
-        System.out.println("Khong ton tai khach hang");
+        System.out.println(KHONG_TON_TAI_KHACH_HANG);
         return false;
     }
 }

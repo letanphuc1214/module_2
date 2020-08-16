@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b73c5d11-73ef-4da5-a2f2-a80ecd6849c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComparableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComparableCircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComparableRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComparableRectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComparableSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComparableSquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_TrienKhaiInterfaceComparatorDeSoSanhCacLopHinhHoc/TH_TrienKhaiInterfaceComparatorDeSoSanhCacLopHinhHoc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_TrienKhaiInterfaceComparatorDeSoSanhCacLopHinhHoc/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_TrienKhaiInterfaceComparatorDeSoSanhCacLopHinhHoc/src/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_TrienKhaiInterfaceComparatorDeSoSanhCacLopHinhHoc/src/ComparableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_TrienKhaiInterfaceComparatorDeSoSanhCacLopHinhHoc/src/ComparableCircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_TrienKhaiInterfaceComparatorDeSoSanhCacLopHinhHoc/src/ComparableRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_TrienKhaiInterfaceComparatorDeSoSanhCacLopHinhHoc/src/ComparableRectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_TrienKhaiInterfaceComparatorDeSoSanhCacLopHinhHoc/src/ComparableSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_TrienKhaiInterfaceComparatorDeSoSanhCacLopHinhHoc/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_TrienKhaiInterfaceComparatorDeSoSanhCacLopHinhHoc/src/RectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_TrienKhaiInterfaceComparatorDeSoSanhCacLopHinhHoc/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_TrienKhaiInterfaceComparatorDeSoSanhCacLopHinhHoc/src/ShapeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_TrienKhaiInterfaceComparatorDeSoSanhCacLopHinhHoc/src/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH_TrienKhaiInterfaceComparatorDeSoSanhCacLopHinhHoc/src/SquareTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_XayDungQuanLyHeThongKhachHang/out/production/BT_XayDungQuanLyHeThongKhachHang/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_XayDungQuanLyHeThongKhachHang/out/production/BT_XayDungQuanLyHeThongKhachHang/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_XayDungQuanLyHeThongKhachHang/out/production/BT_XayDungQuanLyHeThongKhachHang/CustomerManagement.class" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_XayDungQuanLyHeThongKhachHang/out/production/BT_XayDungQuanLyHeThongKhachHang/CustomerManagement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_XayDungQuanLyHeThongKhachHang/src/CustomerManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_XayDungQuanLyHeThongKhachHang/src/CustomerManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TH_TrienKhaiInterfaceComparableChoCacLopHinhHoc/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TH_TrienKhaiInterfaceComparableChoCacLopHinhHoc/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TH_TrienKhaiInterfaceComparableChoCacLopHinhHoc/ShapeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TH_TrienKhaiInterfaceComparableChoCacLopHinhHoc/ShapeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ShapeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShapeTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1gAs9rSPx9WlKSdirHuZDCikObs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Application.ComparableSquareTest">
+    <configuration name="ComparableCircleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComparableCircleTest" />
+      <module name="TH_TrienKhaiInterfaceComparableChoCacLopHinhHoc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComparableRectangleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComparableRectangleTest" />
+      <module name="TH_TrienKhaiInterfaceComparableChoCacLopHinhHoc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComparableSquareTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComparableSquareTest" />
+      <module name="TH_TrienKhaiInterfaceComparableChoCacLopHinhHoc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectangleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RectangleTest" />
+      <module name="TH_TrienKhaiInterfaceComparableChoCacLopHinhHoc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquareTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SquareTest" />
+      <module name="TH_TrienKhaiInterfaceComparableChoCacLopHinhHoc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ComparableSquareTest" />
+        <item itemvalue="Application.SquareTest" />
+        <item itemvalue="Application.ComparableRectangleTest" />
+        <item itemvalue="Application.ComparableCircleTest" />
+        <item itemvalue="Application.RectangleTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b73c5d11-73ef-4da5-a2f2-a80ecd6849c2" name="Default Changelist" comment="" />
+      <created>1597568584373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597568584373</updated>
+      <workItem from="1597568586137" duration="7024000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1597572582058">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1597572582058" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1597573841857">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597573841857" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1597573841857">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597573841857" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1597573841857">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597573841857" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1597573841857">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597573841857" />
+    <state x="219" y="66" key="RollbackChangesDialog" timestamp="1597571298379">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="219" y="66" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1597571298379" />
+    <state x="65" y="0" key="new project wizard" timestamp="1597574011095">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1597574011095" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597572354939">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597572354939" />
+  </component>
+</project>

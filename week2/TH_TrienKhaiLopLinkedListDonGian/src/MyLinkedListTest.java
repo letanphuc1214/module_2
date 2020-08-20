@@ -7,7 +7,7 @@ public class MyLinkedListTest {
         listLinked.add(2, 10);
         listLinked.add(3, 113);
         listLinked.add(4, 114);
-
+//
         listLinked.addFirst(11);
         listLinked.addFirst(12);
         listLinked.addFirst(13);

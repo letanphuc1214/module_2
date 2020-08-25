@@ -32,8 +32,8 @@ public class BinarySearch {
     public static void main(String[] args) {
         insertSort(list);
         System.out.print("Mang duoc sap xep la: ");
-        for (int i = 0; i < list.length; i++) {
-            System.out.print(list[i] + " ");
+        for (int j : list) {
+            System.out.print(j + " ");
         }
         System.out.println();
 

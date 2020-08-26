@@ -1,11 +1,10 @@
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileOutputStream;
 import java.io.IOException;
 
 public class CSVReader {
     public static void main(String[] args) throws IOException {
-        File file = new File("textfile.csv");
+        File file = new File("textdocfile.txt");
         if (!file.exists()){
             file.createNewFile();
         }

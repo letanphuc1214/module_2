@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a9d4514-c2e4-4ad2-9cde-c3ab0cf86bc6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../week2/BT_XayDungQuanLyHeThongKhachHang/out/production/BT_XayDungQuanLyHeThongKhachHang/CustomerManagement.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week2/BT_XayDungQuanLyHeThongKhachHang/out/production/BT_XayDungQuanLyHeThongKhachHang/CustomerManagement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week2/BT_XayDungQuanLyHeThongKhachHang/src/CustomerManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week2/BT_XayDungQuanLyHeThongKhachHang/src/CustomerManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +50,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../week4/Optional_BT_DocFile" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -71,17 +71,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.CSVReader" />
@@ -97,6 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598416116856</updated>
       <workItem from="1598416117893" duration="2234000" />
+      <workItem from="1598423989528" duration="66000" />
     </task>
     <servers />
   </component>
@@ -113,6 +103,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -126,6 +117,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1598418081619" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1598424053432">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598424053432" />
     <state width="1323" height="255" key="GridCell.Tab.0.bottom" timestamp="1598423863734">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

@@ -15,7 +15,7 @@ public class CopyFileLarge {
         File destFile = new File(destPath);
 
         try {
-            copyFileUsingJava7File(sourceFile, destFile);
+            copyFileUsingStream(sourceFile, destFile);
             System.out.println("copy completed");
         } catch (IOException e) {
             System.out.println("can't copy that file");

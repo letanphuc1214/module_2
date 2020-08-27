@@ -3,10 +3,10 @@ import java.io.*;
 public class CopyFileExample {
     public static void main(String[] args) throws IOException {
 
-        File sourch = new File("sourchfile.txt");
+        File source = new File("sourchfile.txt");
         File target = new File("targetfile.txt");
 
-        if (!sourch.exists()) {
+        if (!source.exists()) {
             System.out.println("file does not exists");
         }
         if (target.exists()) {

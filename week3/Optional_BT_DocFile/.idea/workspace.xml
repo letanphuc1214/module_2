@@ -20,6 +20,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a9d4514-c2e4-4ad2-9cde-c3ab0cf86bc6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Optional_BT_DocFile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week4/.idea/week4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week4/BT_QuanLySanPhamLuuRaFileNhiPhan/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week4/BT_QuanLySanPhamLuuRaFileNhiPhan/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week4/BT_QuanLySanPhamLuuRaFileNhiPhan/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week4/BT_QuanLySanPhamLuuRaFileNhiPhan/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week4/BT_QuanLySanPhamLuuRaFileNhiPhan/BT_QuanLySanPhamLuuRaFileNhiPhan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week4/BT_QuanLySanPhamLuuRaFileNhiPhan/source" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week4/BT_QuanLySanPhamLuuRaFileNhiPhan/src/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week4/BT_QuanLySanPhamLuuRaFileNhiPhan/src/ProductMangagerFileBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week4/BT_QuanLySanPhamLuuRaFileNhiPhan/src/SystemTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,6 +103,8 @@
       <updated>1598416116856</updated>
       <workItem from="1598416117893" duration="2234000" />
       <workItem from="1598423989528" duration="66000" />
+      <workItem from="1598517959698" duration="14000" />
+      <workItem from="1598518416718" duration="25000" />
     </task>
     <servers />
   </component>

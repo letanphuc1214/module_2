@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BT_CopyFileText/BT_CopyFileText.iml" filepath="$PROJECT_DIR$/BT_CopyFileText/BT_CopyFileText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BT_QuanLySanPhamLuuRaFileNhiPhan/BT_QuanLySanPhamLuuRaFileNhiPhan.iml" filepath="$PROJECT_DIR$/BT_QuanLySanPhamLuuRaFileNhiPhan/BT_QuanLySanPhamLuuRaFileNhiPhan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Optional_BT_CopyFileNhiPhan/Optional_BT_CopyFileNhiPhan.iml" filepath="$PROJECT_DIR$/Optional_BT_CopyFileNhiPhan/Optional_BT_CopyFileNhiPhan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH_CopyCacFileCoDungLuongLon/TH_CopyCacFileCoDungLuongLon.iml" filepath="$PROJECT_DIR$/TH_CopyCacFileCoDungLuongLon/TH_CopyCacFileCoDungLuongLon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH_Docfile/TH_Docfile.iml" filepath="$PROJECT_DIR$/TH_Docfile/TH_Docfile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/week4.iml" filepath="$PROJECT_DIR$/.idea/week4.iml" />
+    </modules>
+  </component>
+</project>

@@ -7,6 +7,11 @@ public class Main {
         Thread thread = new Thread(t1);
         Thread thread1 = new Thread(t2);
 
+        thread.setPriority(Thread.MAX_PRIORITY);
+        System.out.println("The maximum thread priority of Thread " + thread.getPriority());
+        thread1.setPriority(Thread.MIN_PRIORITY);
+        System.out.println("The minimum thread priority of Thread " + thread1.getPriority());
+
 
         thread.start();
         thread1.start();

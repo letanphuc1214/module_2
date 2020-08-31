@@ -158,7 +158,7 @@ public class CustomerManagement {
 
     public String checkNameFormat() {
         String customerName;
-        String regex = "^[a-zA-Z]+$";
+        String regex = "^[a-z A-Z]+$";
         while (true) {
             System.out.println("Nhap ten khach hang: ");
             customerName = scanner.nextLine();
@@ -188,7 +188,7 @@ public class CustomerManagement {
 
     public String checkPhoneNumberFormat() {
         String phoneNumber;
-        String regex = "^(08|09|03|07|)+([0-9]{8})$";
+        String regex = "^(08|09|03|07|)([0-9]{8})$";
         while (true) {
             System.out.println("Nhap so dien thoai: ");
             phoneNumber = scanner.nextLine();

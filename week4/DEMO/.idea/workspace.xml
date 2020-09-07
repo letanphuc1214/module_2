@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef5c16c6-a71e-4cde-94c6-ce7dcbff29d5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEMO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DEMO/FuncFileCSV.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DEMO/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DEMO/ProductBinary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DEMO/SystemTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FuncFileCSV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProductBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week2/BT_XayDungQuanLyHeThongKhachHang/out/production/BT_XayDungQuanLyHeThongKhachHang/SystemTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week2/BT_XayDungQuanLyHeThongKhachHang/out/production/BT_XayDungQuanLyHeThongKhachHang/SystemTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week2/BT_XayDungQuanLyHeThongKhachHang/src/CustomerManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week2/BT_XayDungQuanLyHeThongKhachHang/src/CustomerManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week2/BT_XayDungQuanLyHeThongKhachHang/src/SystemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week2/BT_XayDungQuanLyHeThongKhachHang/src/SystemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_QuanLySanPhamLuuRaFileNhiPhan/out/production/BT_QuanLySanPhamLuuRaFileNhiPhan/FuncFileCSV.class" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_QuanLySanPhamLuuRaFileNhiPhan/out/production/BT_QuanLySanPhamLuuRaFileNhiPhan/FuncFileCSV.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_QuanLySanPhamLuuRaFileNhiPhan/source" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_QuanLySanPhamLuuRaFileNhiPhan/source" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_QuanLySanPhamLuuRaFileNhiPhan/src/FuncFileCSV.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_QuanLySanPhamLuuRaFileNhiPhan/src/FuncFileCSV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_QuanLySanPhamLuuRaFileNhiPhan/src/ProductManagerFileBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_QuanLySanPhamLuuRaFileNhiPhan/src/ProductManagerFileBinary.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1gyzifQRqHONzqJoHldNmxiXIMb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SystemTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SystemTest" />
+      <module name="DEMO" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SystemTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef5c16c6-a71e-4cde-94c6-ce7dcbff29d5" name="Default Changelist" comment="" />
+      <created>1599101753746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599101753746</updated>
+      <workItem from="1599101754866" duration="6845000" />
+      <workItem from="1599108667128" duration="14187000" />
+      <workItem from="1599182040400" duration="75000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599108547833">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="451" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1599108547833" />
+    <state x="487" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1599127230483">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="487" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1599127230483" />
+    <state width="1321" height="263" key="GridCell.Tab.0.bottom" timestamp="1599129137735">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="263" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599129137735" />
+    <state width="1321" height="263" key="GridCell.Tab.0.center" timestamp="1599129137734">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="263" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599129137734" />
+    <state width="1321" height="263" key="GridCell.Tab.0.left" timestamp="1599129137734">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="263" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599129137734" />
+    <state width="1321" height="263" key="GridCell.Tab.0.right" timestamp="1599129137734">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="263" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599129137734" />
+    <state width="1321" height="263" key="GridCell.Tab.1.bottom" timestamp="1599129137735">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="263" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599129137735" />
+    <state width="1321" height="263" key="GridCell.Tab.1.center" timestamp="1599129137735">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="263" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1599129137735" />
+    <state width="1321" height="263" key="GridCell.Tab.1.left" timestamp="1599129137735">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="263" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1599129137735" />
+    <state width="1321" height="263" key="GridCell.Tab.1.right" timestamp="1599129137735">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="263" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1599129137735" />
+    <state x="183" y="8" key="SettingsEditor" timestamp="1599128966278">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="183" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599128966278" />
+    <state x="64" y="0" key="new project wizard" timestamp="1599182115041">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="64" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1599182115041" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1599125865454">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1599125865454" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DEMO$SystemTest.ic" NAME="SystemTest Coverage Results" MODIFIED="1599120407651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

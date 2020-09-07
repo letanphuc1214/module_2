@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed5bb9ff-2887-41f2-8b38-a27dcba80fd8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CaseStudy_QuanLyHocVien/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy_QuanLyHocVien/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy_QuanLyHocVien/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy_QuanLyHocVien/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy_QuanLyHocVien/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy_QuanLyHocVien/CaseStudy_QuanLyHocVien.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy_QuanLyHocVien/out/production/CaseStudy_QuanLyHocVien/DAO/StudentDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy_QuanLyHocVien/out/production/CaseStudy_QuanLyHocVien/DAO/StudentImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy_QuanLyHocVien/out/production/CaseStudy_QuanLyHocVien/Entity/FuncFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy_QuanLyHocVien/out/production/CaseStudy_QuanLyHocVien/Entity/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy_QuanLyHocVien/out/production/CaseStudy_QuanLyHocVien/FileUntil/Text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy_QuanLyHocVien/out/production/CaseStudy_QuanLyHocVien/UI/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy_QuanLyHocVien/src/DAO/StudentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy_QuanLyHocVien/src/DAO/StudentImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy_QuanLyHocVien/src/Entity/FuncFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy_QuanLyHocVien/src/Entity/SortStudentByPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy_QuanLyHocVien/src/Entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy_QuanLyHocVien/src/FileUntil/Text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy_QuanLyHocVien/src/UI/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO/DEMO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO/Text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO/out/production/DEMO/FuncFileCSV.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO/out/production/DEMO/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO/out/production/DEMO/ProductBinary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO/out/production/DEMO/SystemTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO/src/FuncFileCSV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO/src/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO/src/ProductBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEMO/src/SystemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThiModule2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/contact.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ThiModule2/FuncFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ThiModule2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ThiModule2/ManagerPhoneBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ThiModule2/PhoneBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FuncFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ManagerPhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PhoneBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week2/BT_XayDungQuanLyHeThongKhachHang/out/production/BT_XayDungQuanLyHeThongKhachHang/SystemTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week2/BT_XayDungQuanLyHeThongKhachHang/out/production/BT_XayDungQuanLyHeThongKhachHang/SystemTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week2/BT_XayDungQuanLyHeThongKhachHang/src/CustomerManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week2/BT_XayDungQuanLyHeThongKhachHang/src/CustomerManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week2/BT_XayDungQuanLyHeThongKhachHang/src/SystemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week2/BT_XayDungQuanLyHeThongKhachHang/src/SystemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_QuanLySanPhamLuuRaFileNhiPhan/out/production/BT_QuanLySanPhamLuuRaFileNhiPhan/FuncFileCSV.class" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_QuanLySanPhamLuuRaFileNhiPhan/out/production/BT_QuanLySanPhamLuuRaFileNhiPhan/FuncFileCSV.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_QuanLySanPhamLuuRaFileNhiPhan/source" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_QuanLySanPhamLuuRaFileNhiPhan/source" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_QuanLySanPhamLuuRaFileNhiPhan/src/FuncFileCSV.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_QuanLySanPhamLuuRaFileNhiPhan/src/FuncFileCSV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_QuanLySanPhamLuuRaFileNhiPhan/src/ProductManagerFileBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_QuanLySanPhamLuuRaFileNhiPhan/src/ProductManagerFileBinary.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1hA8HJcXa2oll01Cp7Lib9yuCT9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\codegym\module2\week4\ThiModule2\data" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ThiModule2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed5bb9ff-2887-41f2-8b38-a27dcba80fd8" name="Default Changelist" comment="" />
+      <created>1599442448773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599442448773</updated>
+      <workItem from="1599442449982" duration="6925000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="487" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1599443189588">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="487" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1599443189588" />
+    <state width="1321" height="375" key="GridCell.Tab.0.bottom" timestamp="1599449383508">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="375" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599449383508" />
+    <state width="1321" height="375" key="GridCell.Tab.0.center" timestamp="1599449383508">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="375" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599449383508" />
+    <state width="1321" height="375" key="GridCell.Tab.0.left" timestamp="1599449383508">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="375" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599449383508" />
+    <state width="1321" height="375" key="GridCell.Tab.0.right" timestamp="1599449383508">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="375" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599449383508" />
+    <state x="64" y="0" key="new project wizard" timestamp="1599449001836">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="64" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1599449001836" />
+  </component>
+</project>

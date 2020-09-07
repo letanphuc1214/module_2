@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 public class SystemTest {
@@ -11,6 +13,11 @@ public class SystemTest {
         System.out.println("Bam 0 de thoat");
         System.out.println("==========================================");
         CustomerManagement start = new CustomerManagement();
+//        List<String> headersList = new ArrayList<>();
+//        headersList.add("Id");
+//        headersList.add("F-Name");
+//        headersList.add("L-Name");
+//        headersList.add("Email");
         start.menu();
 
     }

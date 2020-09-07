@@ -56,6 +56,7 @@ public class ProductManagerFileBinary {
         if (isCheckName(productCode)){
             Product product = new Product(productCode, productName, manufacturer, price, description);
             listProduct.add(product);
+            FuncFileCSV.writeProductCSVFile(listProduct);
             System.out.println("Them san pham thanh cong...");
         }
         else {
@@ -106,7 +107,7 @@ public class ProductManagerFileBinary {
 
     public static boolean isCheckName(String productCode){
         listProduct = FuncFileCSV.getFileCSVListProduct();
-        for (Product product : listProduct){
+            for (Product product : listProduct){
             if (product.getProductCode().equals(productCode)){
                 return false;
             }

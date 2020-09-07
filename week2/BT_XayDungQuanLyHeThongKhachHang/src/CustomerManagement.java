@@ -1,6 +1,6 @@
-import java.util.ArrayList;
-import java.util.Scanner;
+import java.util.*;
 import java.util.regex.Pattern;
+import java.util.stream.Stream;
 
 public class CustomerManagement {
     public static final String NHAP_SO_DIEN_THOAI_KHACH_HANG = "Nhap so dien thoai khach hang: ";

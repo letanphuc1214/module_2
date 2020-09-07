@@ -11,7 +11,7 @@ public class FuncFile {
     private static final String FILE_NAME_STUDENT = "src/FileUntil/Text";
     private static final String COMMA_DELIMITER = ",";
     private static final String NEW_LINE_SEPERATOR = "\n";
-    private static final String FILE_HEADER = "Ma hoc sinh , Ten hoc sinh , Tuoi , Dia chi , Gioi tinh , So dien thoai , Diem he so 1 , Diem he so 1 , Diem he so 2 , Diem he so 3";
+    private static final String FILE_HEADER = "Ma hoc sinh , Ten hoc sinh , Tuoi , Dia chi , Gioi tinh , So dien thoai , Diem he so 1 , Diem he so 1 , Diem he so 2 , Diem he so 3, Diem trung binh";
     public static void writeFile(HashMap<String, Student> listStudent) {
         FileWriter fileWriter = null;
         try {

@@ -10,15 +10,6 @@ import java.util.regex.Pattern;
 public class StudentImp extends Student implements StudentDAO {
     HashMap<String, Student> listStudent = FuncFile.readFile();
     private static final Scanner scanner = new Scanner(System.in);
-    //    public static int lengthId = 2;
-//    public static int lengthName = 4;
-//    public static int lengthGender = 6;
-//    public static int lengthPhone = 4;
-//    public static int lengthPoint1 = 5;
-//    public static int lengthPoint2 = 5;
-//    public static int lengthPoint3 = 5;
-//    public static int lengthPoint4 = 5;
-//    public static int lengthAvg = 5;
     String choose;
 
     public StudentImp() throws ClassNotFoundException {
@@ -266,7 +257,7 @@ public class StudentImp extends Student implements StudentDAO {
         String phoneNumber;
         String regex = "^(08|09|03|07|)([0-9]{8})$";
         while (true) {
-            System.out.println("Nhập số điện thoại: ");
+            System.out.print("Nhập số điện thoại: ");
             phoneNumber = scanner.nextLine();
             Pattern patternPhoneNumber = Pattern.compile(regex);
             if (patternPhoneNumber.matcher(phoneNumber).find()) {
